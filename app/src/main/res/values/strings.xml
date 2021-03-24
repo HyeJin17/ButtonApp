@@ -1,4 +1,3 @@
 <resources>
-    <string name="KH_button" id="KH">ButtonApp</string>
-
+    <string name="button" id="KH">ButtonApp</string>
 </resources>
