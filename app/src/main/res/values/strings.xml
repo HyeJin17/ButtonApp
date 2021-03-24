@@ -1,3 +1,4 @@
 <resources>
-    <string name="button" id="KH">ButtonApp</string>
+    <string name="button">ButtonApp</string>
+    <string name="button_name">강혜진의 버튼</string>
 </resources>
